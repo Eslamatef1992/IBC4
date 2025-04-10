@@ -1,0 +1,117 @@
+.page-header .navbar-default {
+	background-color: #303D57;
+}
+
+.page-sidebar, .page-sidebar-collapsed {
+	background: #303D57;
+}
+
+.page-sidebar .logo {
+	background: #303D57;
+	border-bottom: 1px solid #303D57;
+}
+
+.page-sidebar-menu ul li a,
+.page-sidebar-menu ul li a svg {
+	color: #d9dde7;
+}
+
+.page-sidebar-menu ul li.active>a,
+.accordion-menu .sub-menu,
+.sidebar-footer {
+	background: #303D57;
+}
+
+.page-sidebar-menu ul li {
+    border-top:1px solid #303D57;
+}
+
+.page-sidebar-menu ul li:first-child {
+    border-top:none;
+}
+
+.page-sidebar-menu ul li:last-child {
+    border-bottom:1px solid #303D57;
+}
+
+.page-sidebar-menu ul li ul.sub-menu li{
+    border-bottom:none;
+}
+
+.page-sidebar-menu ul li.menu-navigation,
+.page-sidebar-menu ul li.menu-elements,
+.page-sidebar-menu ul li.menu-extras,
+.page-sidebar-menu ul li.menu-others,
+.page-sidebar-menu ul li.active>a,
+.open:not(.active)>a {
+	color: #ffffff;
+}
+
+.page-sidebar-menu ul li .sub-menu a:hover,
+.page-sidebar-menu ul li a:hover,
+.page-sidebar-menu ul li a:hover svg,
+.page-sidebar-menu ul>li.active a svg,
+.page-sidebar-menu ul>li.open a svg,
+.page-sidebar-menu ul li.active>a i,
+.page-sidebar-menu ul li.active>a i.accordion-icon,
+.page-sidebar-menu ul li.open>a i.accordion-icon,
+.page-sidebar-menu ul li a:hover i.accordion-icon {
+	color: #ffffff;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu>ul>li:hover>a,
+.page-sidebar-collapsed .page-sidebar-menu>ul>li.active>a {
+	border: 1px solid #303D57;
+	background: #157c26;
+}
+
+.page-sidebar-collapsed .page-sidebar-menu ul li .sub-menu {
+	background: #303D57;
+	border-left: 1px solid #303D57;
+	border-right: 1px solid #303D57;
+	border-bottom: 1px solid #303D57;
+}
+
+.accordion-menu .sub-menu li a:hover:before,
+.page-sidebar-menu ul li ul li.active>a:before {
+	border-color: #ffffff;
+}
+
+.sidebar-footer {
+	background: #303D57;
+}
+
+.sidebar-footer a.pull-left {
+	color: #fff;
+}
+
+.sidebar-footer .pull-left {
+	border-top: 1px solid #303D57;
+}
+
+.sidebar-footer a.pull-left:hover {
+	background: #303D57;
+}
+
+.sidebar-footer a.pull-left {
+	border-top: 1px solid #303D57;
+}
+
+.bg-gradient {
+    background: #303D57;
+}
+
+.login-wrapper,
+.login-wrapper a{
+	color: #fff
+}
+.btn.disabled, .btn:disabled, fieldset:disabled .btn{
+	background: #303D57;
+}
+.login-wrapper .loginbox {
+    background: linear-gradient(180deg, #303D57, #3f61a5);
+}
+
+.login-wrapper .loginbox .login-left{
+	background: linear-gradient(180deg, #303D57, #3f61a5);
+}
